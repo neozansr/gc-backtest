@@ -1,0 +1,7 @@
+README.md
+setup.py
+gc_backtest.egg-info/PKG-INFO
+gc_backtest.egg-info/SOURCES.txt
+gc_backtest.egg-info/dependency_links.txt
+gc_backtest.egg-info/top_level.txt
+src/__init__.py

@@ -12,8 +12,7 @@ The `exp/` directory contains several Jupyter notebooks that document the analys
 
 * `eda.ipynb`: Performs exploratory data analysis to understand the statistical properties of the gold price data.
 * `retriever.ipynb`: Contains code for retrieving and preprocessing the gold price data.
-* `backtest_dip.ipynb`: Implements and backtests a "buy the dip" trading strategy.
-* `backtest_technical.ipynb`: Implements and backtests a trading strategy based on technical indicators.
+* `backtest_*.ipynb`: Implements and backtests strategies.
 
 ## Dependencies
 
