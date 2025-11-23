@@ -1,4 +1,4 @@
-name: gc
+name: gc-backtest
 channels:
   - conda-forge
 dependencies:
